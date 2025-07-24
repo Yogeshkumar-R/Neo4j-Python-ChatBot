@@ -1,6 +1,6 @@
 import os
 import pymupdf
-from reaia.utils.neo4j_driver import get_neo4j_driver
+from utils.neo4j_driver import get_neo4j_driver
 import tempfile
 import webbrowser
 from pyvis.network import Network
