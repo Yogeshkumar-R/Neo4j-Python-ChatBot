@@ -1,22 +1,3 @@
-App Icon
-Codebase to Tutorial
-11.8K
-Toggle theme
-Neo4j-Python-ChatBot
-Yogeshkumar-R/Neo4j-Python-ChatBot
-english
-gemini-2.5-flash
-6f94923
-Dec 7, 2025
-Chapters
-Overview of Neo4j-Python-ChatBot
-Chapter 1: Neo4j Graph Database
-Chapter 2: Document Ingestion & Preprocessing
-Chapter 3: LLM-powered Graph Transformation
-Chapter 4: Knowledge Graph Population Workflow
-Chapter 5: Neo4j Connection Management
-Chapter 6: Graph Visualization
-Show Rendered
 # Tutorial: Neo4j-Python-ChatBot
 
 This project is a **Neo4j-Python-ChatBot** designed to build a *structured knowledge graph* from unstructured documents. It efficiently *ingests various file types* (like PDFs and Word documents), leverages *Large Language Models (LLMs)* to extract key entities and relationships from the text, and then stores this interconnected information within a **Neo4j graph database**. Users can then *visually explore* this knowledge graph, making complex data connections intuitive and easy to understand.
